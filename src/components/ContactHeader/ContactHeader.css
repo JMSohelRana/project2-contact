@@ -1,0 +1,17 @@
+div p{
+    height: 72px;
+    max-width: 975px;
+    font-weight: 500;
+}
+div h1{
+    height: 72px;
+    max-width: 315px;
+    font-size: 48px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.container-section{
+    margin: 72px 0 0 20px;
+
+}

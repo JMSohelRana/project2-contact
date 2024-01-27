@@ -1,5 +1,6 @@
-import logo from "/public/images/contact.png";
+import logo from "/images/contact.png";
 import "../components/css/Navigation.css";
+
 const Navigation = () => {
   return (
     <nav className=" container">
